@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/etc/controller/UserController.java=UTF-8
+encoding//src/main/java/com/etc/dao/IUserDao.java=UTF-8
+encoding//src/main/java/com/etc/dao/UserDao.java=UTF-8
+encoding//src/main/java/com/etc/service/UserService.java=UTF-8
+encoding//src/main/java/com/etc/utils/DBUtil.java=UTF-8
